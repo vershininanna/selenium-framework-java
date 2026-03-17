@@ -1,19 +1,15 @@
-# Selenium Java Framework
-
-[![Tests](https://github.com/vershininanna/selenium-framework-java/actions/workflows/macos-selenium.yml/badge.svg)](https://github.com/vershininanna/selenium-framework-java/actions)
-[![Coverage](https://img.shields.io/badge/coverage-85%25-brightgreen.svg)](reports/)
-
-# Selenium Java Framework | Senior QA | 260к+ руб.
+# Selenium Java | Middle+ QA | 250k+
 
 ## Features
 - Page Object Model (POM)
-- TestNG parallel execution
 - Java 17 + Selenium 4.15
+- API testing (Postman, Swagger)
 - Allure reports + CI/CD
-- Cross-browser testing
+
+**HH.ru резюме:** [(https://spb.hh.ru/resume/8209e4daff0ef81ac30039ed1f5a3255543055)]
 
 ## Tech Stack
 Java 17 | Maven | TestNG | Selenium | Allure
 Jira | Postman | SQL | Docker
 
-**260к+ BigTech ready**
+**250к+ BigTech ready**

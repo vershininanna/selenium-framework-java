@@ -1,8 +1,8 @@
-# Selenium Java | Middle+ QA | 250k+
+# Selenium Java | Middle+ QA | 200k+
 
 ## Features
 - Page Object Model (POM)
-- Java 17 + Selenium 4.15
+- Java 17 + Selenium
 - API testing (Postman, Swagger)
 - Allure reports + CI/CD
 
@@ -12,4 +12,4 @@
 Java 17 | Maven | TestNG | Selenium | Allure
 Jira | Postman | SQL | Docker
 
-**250к+ BigTech ready**
+**200к+ BigTech ready**
